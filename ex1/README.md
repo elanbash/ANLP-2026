@@ -20,4 +20,4 @@ Run:
   --max_predict_samples <optional_limit_or_-1>
 ```
 
-If you use --do_train the model will fine-tune on the training data and save its weights to the specified --model_path, and if you use --do_predict, a predictions.txt file will be generated in that same path containing prediction results for all test samples.
+If you use `--do_train` the model will fine-tune on the training data and save its weights to the specified `--model_path`, and if you use `--do_predict`, a `predictions.txt` file will be generated in that same path containing prediction results for all test samples.
